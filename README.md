@@ -13,7 +13,7 @@ If you are
     * looking for part-time work opportunities → I am helping my friends hire full-stack contractors $15 ~ $25 / hour all year round
     * wanting to become a better software engineer or engineering manager → [10x.pub community](https://github.com/puncsky/system-design-and-architecture)
 * ❓ interested in what I am 
-    * building in my spare time → https://stargately.com
-    * thinking → https://tianpan.co
+    * building in my spare time → [stargately.com](https://stargately.com)
+    * thinking → [tianpan.co](https://tianpan.co)
 
 You could say hi to me at https://t.me/puncsky or email me via tian.pan at outlook.com
