@@ -15,3 +15,5 @@ If you are
 * ❓ interested in what I am 
     * building in my spare time → https://stargately.com
     * thinking → https://tianpan.co
+
+You could say hi to me at https://t.me/puncsky or email me via tian.pan at outlook.com
