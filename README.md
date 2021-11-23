@@ -14,7 +14,7 @@ If you are
     * wanting to become a better software engineer or engineering manager → [10x.pub community](https://github.com/puncsky/system-design-and-architecture)
 * ❓ interested in what I am 
     * building in my spare time → [stargately.com](https://stargately.com)
-    * thinking → [tianpan.co](https://tianpan.co)
+    * thinking → in English [tianpan.co](https://tianpan.co) 中文 [硅谷io](https://guigu.io)
 
 You could say hi to me at https://t.me/puncsky or email me via tian.pan at outlook.com
 
