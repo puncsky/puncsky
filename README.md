@@ -4,7 +4,10 @@ I am a software engineer that crafts Internet services for a living and for fun.
 
 If you are
 
-* 👔 an investor or entrepreneur → I am open for cofounder and CTO positions
+* 👔 an investor or entrepreneur
+    * I am open for cofounder and CTO positions
+    * I help investors source deals
+    * I help startups source engineers and designers
 * 😛 a wannabe entrepreneur like me
     * raising seed funding for your crypto startup → there is a budget to invest $300k per case
     * interested in FinTech, Decentralized Identity, SaaS, and community building technologies → let's talk
