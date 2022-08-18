@@ -1,6 +1,6 @@
 Hi, there 👋! 
 
-I am a software engineer that crafts Internet services for a living and for fun.
+I am a software engineer and businessman that crafts Internet services for a living and for fun.
 
 If you are
 
