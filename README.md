@@ -23,4 +23,4 @@ You could say hi to me at https://t.me/puncsky or email me via tian.pan at outlo
 
 Follow me for sys design, tech leadership, web3, and fintech:
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20TianPan.co)]([https://twitter.com/bukotsunikki](https://twitter.com/puncsky)) 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/puncsky.svg?style=social&label=Follow%20TianPan.co)](https://twitter.com/puncsky) 
