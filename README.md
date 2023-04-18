@@ -21,5 +21,6 @@ If you are
 
 You could say hi to me at https://t.me/puncsky or email me via tian.pan at outlook.com
 
-| intentionally left blank for ads 1  |  ads 2 | ads3 | ads4 |
-| ---      | ---      | ---     | --- | 
+Follow me for sys design, tech leadership, web3, and fintech:
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20TianPan.co)]([https://twitter.com/bukotsunikki](https://twitter.com/puncsky)) 
